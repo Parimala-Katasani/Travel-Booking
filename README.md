@@ -20,19 +20,19 @@ MongoDB
 ## Screenshots
 
 ### homepage
-![Homepage](https://github.com/Parimala-Katasani/Travel-Booking/blob/master/screenshots/1home.png)
+<img width="960" alt="home" src="https://github.com/Parimala-Katasani/Travel-Booking/blob/master/screenshots/1home.png">
 
 ### destination
-![Destination](https://github.com/Parimala-Katasani/Travel-Booking/blob/master/screenshots/2destination.png)
+<img width="960" alt="destination" src="https://github.com/Parimala-Katasani/Travel-Booking/blob/master/screenshots/2destination.png">
 
 ### services
-![Services](https://github.com/Parimala-Katasani/Travel-Booking/blob/master/screenshots/3service.png)
+<img width="960" alt="services" src="https://github.com/Parimala-Katasani/Travel-Booking/blob/master/screenshots/3service.png">
 
 ### chatbot
-![Chatbot](https://github.com/Parimala-Katasani/Travel-Booking/blob/master/screenshots/4chatbot.png)
+<img width="960" alt="chatbot" src="https://github.com/Parimala-Katasani/Travel-Booking/blob/master/screenshots/4chatbot.png">
 
 ### plan your trip
-![Plan](https://github.com/Parimala-Katasani/Travel-Booking/blob/master/screenshots/5plan.png)
+<img width="960" alt="plan" src="https://github.com/Parimala-Katasani/Travel-Booking/blob/master/screenshots/5plan.png">
 
 ### reviews
-![Reviews](https://github.com/Parimala-Katasani/Travel-Booking/blob/master/screenshots/6reviews.png)
+<img width="960" alt="reviews" src="https://github.com/Parimala-Katasani/Travel-Booking/blob/master/screenshots/6reviews.png">
